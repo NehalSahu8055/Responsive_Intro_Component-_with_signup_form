@@ -105,7 +105,7 @@ body {
 }
 .signup {
   width: 55%;
-  /* width:540px; */
+  width:540px;
   gap: var(--gap, 25px);
 }
 .heading {
