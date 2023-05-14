@@ -158,7 +158,7 @@ input:focus {
   color: var(--clr-red);
   font-style: italic;
   position: relative;
-  transform: translate(150px, -10px);
+  transform: translate(100px, -10px);
 }
 .error.inpt {
   margin-top: -10px;
