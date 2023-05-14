@@ -86,7 +86,7 @@ body::-webkit-scrollbar {
   display: none; /* for Chrome, Safari, and Opera */
 }
 body {
-  min-height: 109vh;
+  min-height: 100vh;
   background: url("../images/bg-intro-desktop.png"), var(--clr-red);
   background-attachment: fixed;
   background-size: cover;
