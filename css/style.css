@@ -134,7 +134,7 @@ input {
   border: 1px solid var(--clr-grayish-blue);
   border-radius: 6px;
   margin-inline: 40px;
-  padding: 15px 228px 15px 32px;
+  padding: 15px;
   outline: none;
   caret-color: var(--clr-blue);
 }
